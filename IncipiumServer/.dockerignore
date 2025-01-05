@@ -1,0 +1,6 @@
+vosk-model-en-us-0.22/
+.git/
+.gitignore
+node_modules/
+*.pyc
+__pycache__/
